@@ -1,0 +1,20 @@
+{
+    "name": "DanceRobot",
+    "version": "1.0.9",
+    "description": "DanceRobot:bit from clb",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
+        "sonar": "github:zhuning239/sonar"
+    },
+    "files": [
+        "README.md",
+        "Dbit.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
